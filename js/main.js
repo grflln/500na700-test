@@ -42,6 +42,8 @@ $(document).ready (() => {
                     variableWidth: true,
                     mobileFirst: true,
                     swipeToSlide: true,
+                    autoplay: true,
+                    autoplaySpeed: 1500
                 }
             }
         ]
